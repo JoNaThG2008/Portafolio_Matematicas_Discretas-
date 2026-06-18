@@ -14,7 +14,7 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
 
 ---
 
-## Teoría de la programación
+## Matemáticas Discretas
 
 <br><br>
 
@@ -24,7 +24,7 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
 
 <br><br>
 
-**Docente:** Ing. Lissette Geoconda López Faicán
+**Docente:** Ing. Mario Enrique Cueva Hurtado
 
 <br>
 
@@ -38,11 +38,16 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
 
 ---
                                                     
-# Portafolio Teoria de la Programación 
-
+# Portafolio de Matemáticas Discretas
 
 
 <details>
-  <summary>📂 <b>Unidad 1: Algoritmo, pseudocódigo, diagrama de flujo, prueba de escritorio y lenguajes de programación.</b></summary>
+  <summary>📂 <b>Unidad 1: 
+  <br>
+  <blockquote>
+  </details>
+
+<details>
+  <summary>📂 <b>Unidad 2:
   <br>
   <blockquote>
