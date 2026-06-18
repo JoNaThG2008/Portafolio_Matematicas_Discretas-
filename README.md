@@ -1,1 +1,48 @@
-# Portafolio_Matematicas_Discretas-
+<div align="center">
+
+<br><br>
+<b>FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y<br>
+LOS RECURSOS NATURALES NO RENOVABLES<br>
+
+--- 
+
+<img width="450" height="300" alt="Sello_UNL" src="https://github.com/user-attachments/assets/335b6df9-6fd3-4de7-a18f-a93587b720eb" />
+
+---
+
+#  COMPUTACIÓN
+
+---
+
+## Teoría de la programación
+
+<br><br>
+
+### Primer Ciclo:
+
+2026
+
+<br><br>
+
+**Docente:** Ing. Lissette Geoconda López Faicán
+
+<br>
+
+**Estudiante:** Jonathan Contento
+
+<br><br><br>
+
+**Loja-Ecuador-2026**
+
+</div>
+
+---
+                                                    
+# Portafolio Teoria de la Programación 
+
+
+
+<details>
+  <summary>📂 <b>Unidad 1: Algoritmo, pseudocódigo, diagrama de flujo, prueba de escritorio y lenguajes de programación.</b></summary>
+  <br>
+  <blockquote>
